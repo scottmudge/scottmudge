@@ -1,4 +1,4 @@
-### 👋 Hey! My name is Scott Mudge
+### 👋 Hey!
 
 I'm a senior software engineering living in the Washington, DC area. My main interests include FOSS software, 3D printing, 3D scanning, CAD and mechanical design, and embedded development. My current professional work deals mostly with cyber security, but in the past I worked in writing software for 3D scanners, medical robotics, 3D visualizers (OpenGL/DirectX), and computer-aided machining. 
 
