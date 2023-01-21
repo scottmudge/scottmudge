@@ -4,7 +4,7 @@ I'm a senior software engineering living in the Washington, DC area. My main int
 
 ### My Primary Skills
 
-I've been working with C/C++ for over 12 years with a myriad of libraries and technologies, and have extensive additional professional experience in CUDA/OpenCL, OpenGL/GLSL, Python, Java, C#, embedded C, and other miscellaneous scripting languages (e.g., Zeek/Bro). 
+I've been working with C/C++ for over 12 years with myriad libraries and technologies, and have extensive additional professional experience in CUDA/OpenCL, OpenGL/GLSL, Python, Java, C#, embedded C, and other miscellaneous scripting languages (e.g., Zeek/Bro). 
 
 ### What I'm Working On These Days
 
