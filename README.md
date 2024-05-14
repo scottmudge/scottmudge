@@ -18,7 +18,6 @@ About me at https://scottmudge.com
 
 <div align="center">
 <a href="https://github.com/scottmudge">
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=scottmudge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmudge&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="250rem" src="https://github-readme-stats.vercel.app/api?username=scottmudge&show_icons=true&theme=dark&hide_rank=true&show=reviews,prs_merged,prs_merged_percentage" />
+    <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmudge&show_icons=true&theme=dark&hide_rank=true" />
 </div>
