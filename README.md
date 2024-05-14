@@ -10,7 +10,7 @@ I've been working with C/C++ for over 12 years with myriad libraries and technol
 
 Professionaly I work in network security, managing and developing scaled deep analysis frameworks for the financial sector.
 
-In my free time I've been working on my custom 3D printer (firmware and hardware improvements), contributing to a number of FOSS projects (e.g., FreeCAD), and designing various objects in CAD (FreeCAD or Rhino3D). 
+In my free time I've been working on exploring LLMs/AI, improving my custom 3D printer (firmware and hardware), contributing to a number of FOSS projects (e.g., FreeCAD), and designing various objects in CAD (FreeCAD or Rhino3D). 
 
 #### Learn More
 
